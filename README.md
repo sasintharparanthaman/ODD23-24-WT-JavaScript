@@ -52,7 +52,8 @@ Display Bill: Print the calculated bill to the console.
 </html>
 ```
 # OUTPUT:9(a):
-![Alt text](a.png)
+![Screenshot 2024-01-02 103542](https://github.com/sasintharparanthaman/ODD23-24-WT-JavaScript/assets/145743219/06d09f9a-20ba-4892-8273-b2bf7d9d2e8b)
+
 
 # Ex-09(b)
 # AIM
@@ -101,7 +102,8 @@ After the loop ends, result will hold the factorial of n. Return result.
 </html>
 ```
 # OUTPUT:9(b):
-![Alt text](b.png)
+
+![Screenshot 2024-01-02 103730](https://github.com/sasintharparanthaman/ODD23-24-WT-JavaScript/assets/145743219/31517ff9-0bcd-4d7f-9031-eddcfe6816ab)
 
 
 
@@ -159,7 +161,7 @@ function isPrime(num) {
 </html>
 ```
 # OUTPUT:9(c):
-![Alt text](c.png)
+![Screenshot 2024-01-02 103828](https://github.com/sasintharparanthaman/ODD23-24-WT-JavaScript/assets/145743219/09129739-63bc-43b8-ae64-6a3b31fc0d70)
 
 
 # Ex-09(d)
@@ -235,12 +237,13 @@ function divide() {
 </html>
 ```
 # OUTPUT:9(d):
-![Alt text](d.png)
-![Alt text](d1.png)
-![Alt text](d2.png)
-![Alt text](d3.png)
+![Screenshot 2024-01-02 103934](https://github.com/sasintharparanthaman/ODD23-24-WT-JavaScript/assets/145743219/a9942cbe-e62c-472e-9fef-ec61c2199a0d)
 
+![Screenshot 2024-01-02 104027](https://github.com/sasintharparanthaman/ODD23-24-WT-JavaScript/assets/145743219/de6e9c35-d961-4102-a75f-40711747a08a)
 
+![Screenshot 2024-01-02 104055](https://github.com/sasintharparanthaman/ODD23-24-WT-JavaScript/assets/145743219/700ff32d-6a81-4689-944d-edc7c9b253b9)
+
+![Screenshot 2024-01-02 104117](https://github.com/sasintharparanthaman/ODD23-24-WT-JavaScript/assets/145743219/572b8d80-7e1d-4a1d-8845-21b059e9032b)
 
 # Ex-09(e)
 # AIM
@@ -295,10 +298,11 @@ function reverse() {
 </html>
 ```
 # OUTPUT:9(e):
-![Alt text](e.png)
-![Alt text](e1.png)
-![Alt text](e2.png)
+![Screenshot 2024-01-02 104407](https://github.com/sasintharparanthaman/ODD23-24-WT-JavaScript/assets/145743219/93856a4c-4162-4af8-8f77-6ec96f425b4f)
 
+![Screenshot 2024-01-02 104546](https://github.com/sasintharparanthaman/ODD23-24-WT-JavaScript/assets/145743219/fc112142-6829-4cc7-84eb-4471f20c8a33)
+
+![Screenshot 2024-01-02 104556](https://github.com/sasintharparanthaman/ODD23-24-WT-JavaScript/assets/145743219/0fd89c4b-19c4-46f1-a389-fd2202c70f9b)
 
 
 # Ex-09(f)
@@ -361,7 +365,8 @@ function validateForm() {
 </html>
 ```
 # OUTPUT:9(f):
-![Alt text](f.png)
+![Screenshot 2024-01-02 104903](https://github.com/sasintharparanthaman/ODD23-24-WT-JavaScript/assets/145743219/ac3f981d-39b1-4354-ab1c-3d2360fa9ff2)
+
 
 # RESULT:
 All java codes excecuted successfully.
